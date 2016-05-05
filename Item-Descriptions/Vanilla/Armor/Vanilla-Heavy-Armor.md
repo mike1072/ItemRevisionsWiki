@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Heavy-Armor]].
+Compare with [[modded versions|Modded Heavy Armor]].
 
 
 # Vanilla Platemail Armor

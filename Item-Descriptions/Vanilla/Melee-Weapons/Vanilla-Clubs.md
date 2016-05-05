@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Clubs]].
+Compare with [[modded versions|Modded Clubs]].
 
 
 # Vanilla Clubs

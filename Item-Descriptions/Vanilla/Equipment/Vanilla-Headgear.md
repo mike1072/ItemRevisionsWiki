@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Headgear]].
+Compare with [[modded versions|Modded Headgear]].
 
 
 # Vanilla Helmets

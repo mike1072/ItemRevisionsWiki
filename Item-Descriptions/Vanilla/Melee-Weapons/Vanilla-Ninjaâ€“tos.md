@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Ninja–tos]].
+Compare with [[modded versions|Modded Ninja-tos]].
 
 
 # Vanilla Ninja-tos

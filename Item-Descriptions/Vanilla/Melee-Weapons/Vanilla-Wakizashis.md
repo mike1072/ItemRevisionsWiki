@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Wakizashis]].
+Compare with [[modded versions|Modded Wakizashis]].
 
 
 # Vanilla Wakizashis

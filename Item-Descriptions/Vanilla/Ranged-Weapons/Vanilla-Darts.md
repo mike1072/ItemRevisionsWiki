@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Darts]].
+Compare with [[modded versions|Modded Darts]].
 
 
 # Vanilla Darts

@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Belts]].
+Compare with [[modded versions|Modded Belts]].
 
 
 # Vanilla Belts

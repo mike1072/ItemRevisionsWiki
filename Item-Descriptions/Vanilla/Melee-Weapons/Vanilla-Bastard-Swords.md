@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Bastard-Swords]].
+Compare with [[modded versions|Modded Bastard Swords]].
 
 
 # Vanilla Bastard Swords

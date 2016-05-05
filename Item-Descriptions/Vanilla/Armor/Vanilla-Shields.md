@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Shields]].
+Compare with [[modded versions|Modded Shields]].
 
 
 # Vanilla Bucklers

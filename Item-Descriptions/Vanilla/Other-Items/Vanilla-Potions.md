@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Potions]].
+Compare with [[modded versions|Modded Potions]].
 
 
 # Vanilla Potions

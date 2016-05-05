@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Staves]].
+Compare with [[modded versions|Modded Staves]].
 
 
 # Vanilla Staves

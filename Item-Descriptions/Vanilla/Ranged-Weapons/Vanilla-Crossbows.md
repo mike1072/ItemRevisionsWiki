@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Crossbows]].
+Compare with [[modded versions|Modded Crossbows]].
 
 
 # Vanilla Light Crossbows

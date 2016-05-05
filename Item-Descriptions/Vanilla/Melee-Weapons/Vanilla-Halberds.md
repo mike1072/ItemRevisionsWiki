@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Halberds]].
+Compare with [[modded versions|Modded Halberds]].
 
 
 # Vanilla Halberds

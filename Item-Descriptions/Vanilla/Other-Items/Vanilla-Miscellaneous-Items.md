@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded-Miscellaneous-Items]].
+Compare with [[modded versions|Modded Miscellaneous Items]].
 
 
 # Vanilla Miscellaneous Items
