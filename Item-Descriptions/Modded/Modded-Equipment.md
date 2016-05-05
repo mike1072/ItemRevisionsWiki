@@ -1,5 +1,5 @@
 
-This category contains descriptions of the items included Item Revisions. For descriptions of the unmodded versions of these items, see [[Vanilla-Equipment]].
+This category contains descriptions of the items included in Item Revisions. For descriptions of the unmodded versions of these items, see [[Vanilla-Equipment]].
 
 - [[Amulets|Modded-Amulets]]
 - [[Belts|Modded-Belts]]

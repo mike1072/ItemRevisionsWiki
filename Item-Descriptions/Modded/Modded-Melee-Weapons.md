@@ -1,5 +1,5 @@
 
-This category contains descriptions of the items included Item Revisions. For descriptions of the unmodded versions of these items, see [[Vanilla-Melee Weapons]].
+This category contains descriptions of the items included in Item Revisions. For descriptions of the unmodded versions of these items, see [[Vanilla-Melee Weapons]].
 
 - [[Bastard Swords|Modded-Bastard-Swords]]
 - [[Clubs|Modded-Clubs]]
