@@ -4,5 +4,5 @@ This category contains descriptions of items as they exist in the unmodded vanil
 - [[Axes|Vanilla-Axes]]
 - [[Daggers|Vanilla-Daggers]]
 - [[Spears|Vanilla-Spears]]
-- [[War Hammers|Vanilla-War Hammers]]
+- [[War Hammers|Vanilla-War-Hammers]]
 
