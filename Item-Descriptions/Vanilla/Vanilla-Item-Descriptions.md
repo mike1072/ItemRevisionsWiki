@@ -1,10 +1,10 @@
 
 This category contains descriptions of items as they exist in the unmodded vanilla game. For descriptions of the Item Revisions versions of these items, see [[Modded Item Descriptions]].
 
-- [[Vanilla Ranged Weapons]]
-- [[Vanilla Mixed Weapons]]
-- [[Vanilla Melee Weapons]]
-- [[Vanilla Armor]]
-- [[Vanilla Equipment]]
-- [[Vanilla Other Items]]
+- [[Ranged Weapons|Vanilla Ranged Weapons]]
+- [[Mixed Weapons|Vanilla Mixed Weapons]]
+- [[Melee Weapons|Vanilla Melee Weapons]]
+- [[Armor|Vanilla Armor]]
+- [[Equipment|Vanilla Equipment]]
+- [[Other Items|Vanilla Other Items]]
 
