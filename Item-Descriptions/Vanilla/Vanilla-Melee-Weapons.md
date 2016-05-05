@@ -9,10 +9,10 @@ This category contains descriptions of items as they exist in the unmodded vanil
 - [[Vanilla Long Swords]]
 - [[Vanilla Maces]]
 - [[Vanilla Morning Stars]]
-- [[Vanilla Ninja-tos]]
+- [[Vanilla Ninja–tos]]
 - [[Vanilla Scimitars]]
 - [[Vanilla Short Swords]]
 - [[Vanilla Staves]]
-- [[Vanilla Two-Handed Swords]]
+- [[Vanilla Two–Handed Swords]]
 - [[Vanilla Wakizashis]]
 

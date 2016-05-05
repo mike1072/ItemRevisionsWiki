@@ -1,4 +1,4 @@
-Compare with [[modded versions|Modded Two-Handed Swords]].
+Compare with [[modded versions|Modded Two–Handed Swords]].
 
 
 # Vanilla Two-Handed Swords
