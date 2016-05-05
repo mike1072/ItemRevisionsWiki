@@ -1,5 +1,17 @@
 
 - [[Home]]
 - [[Vanilla Item Descriptions]]
+  - [[ Ranged Weapons]]
+  - [[ Mixed Weapons]]
+  - [[ Melee Weapons]]
+  - [[ Armor]]
+  - [[ Equipment]]
+  - [[ Other Items]]
 - [[Modded Item Descriptions]]
+  - [[ Ranged Weapons]]
+  - [[ Mixed Weapons]]
+  - [[ Melee Weapons]]
+  - [[ Armor]]
+  - [[ Equipment]]
+  - [[ Other Items]]
 
