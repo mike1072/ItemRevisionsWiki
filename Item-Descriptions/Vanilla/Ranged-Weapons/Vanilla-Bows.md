@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Bows]].
+Compare with [[modded versions|Modded-Bows]].
 
 
 # Vanilla Short Bows

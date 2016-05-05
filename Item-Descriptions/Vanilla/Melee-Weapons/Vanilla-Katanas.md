@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Katanas]].
+Compare with [[modded versions|Modded-Katanas]].
 
 
 # Vanilla Katanas

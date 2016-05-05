@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Scimitars]].
+Compare with [[modded versions|Modded-Scimitars]].
 
 
 # Vanilla Scimitars

@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Wands-and-Rods]].
+Compare with [[modded versions|Modded-Wands-and-Rods]].
 
 
 # Vanilla Wands

@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Long-Swords]].
+Compare with [[modded versions|Modded-Long-Swords]].
 
 
 # Vanilla Long Swords

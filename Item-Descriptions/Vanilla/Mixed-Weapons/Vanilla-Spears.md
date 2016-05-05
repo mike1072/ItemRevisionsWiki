@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Spears]].
+Compare with [[modded versions|Modded-Spears]].
 
 
 # Vanilla Spears

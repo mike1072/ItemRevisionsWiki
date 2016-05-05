@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Morning-Stars]].
+Compare with [[modded versions|Modded-Morning-Stars]].
 
 
 # Vanilla Morning Stars

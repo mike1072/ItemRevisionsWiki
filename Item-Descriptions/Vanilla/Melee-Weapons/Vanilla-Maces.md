@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Maces]].
+Compare with [[modded versions|Modded-Maces]].
 
 
 # Vanilla Maces

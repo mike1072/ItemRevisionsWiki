@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Slings]].
+Compare with [[modded versions|Modded-Slings]].
 
 
 # Vanilla Slings

@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Short-Swords]].
+Compare with [[modded versions|Modded-Short-Swords]].
 
 
 # Vanilla Short Swords

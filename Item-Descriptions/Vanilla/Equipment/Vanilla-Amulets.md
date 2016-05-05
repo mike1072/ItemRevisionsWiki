@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Amulets]].
+Compare with [[modded versions|Modded-Amulets]].
 
 
 # Vanilla Amulets

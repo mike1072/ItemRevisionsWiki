@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Daggers]].
+Compare with [[modded versions|Modded-Daggers]].
 
 
 # Vanilla Daggers

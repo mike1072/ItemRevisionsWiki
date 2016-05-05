@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Scrolls]].
+Compare with [[modded versions|Modded-Scrolls]].
 
 
 # Vanilla Scrolls

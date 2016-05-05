@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Axes]].
+Compare with [[modded versions|Modded-Axes]].
 
 
 # Vanilla Battle Axes

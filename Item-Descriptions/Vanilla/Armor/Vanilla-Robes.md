@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Robes]].
+Compare with [[modded versions|Modded-Robes]].
 
 
 # Vanilla Robes

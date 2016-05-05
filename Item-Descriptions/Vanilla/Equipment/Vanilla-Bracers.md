@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Bracers]].
+Compare with [[modded versions|Modded-Bracers]].
 
 
 # Vanilla Bracers

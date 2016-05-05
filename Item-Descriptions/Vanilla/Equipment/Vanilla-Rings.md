@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Rings]].
+Compare with [[modded versions|Modded-Rings]].
 
 
 # Vanilla Rings

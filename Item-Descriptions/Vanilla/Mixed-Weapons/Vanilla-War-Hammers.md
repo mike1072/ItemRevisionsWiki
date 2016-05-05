@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-War-Hammers]].
+Compare with [[modded versions|Modded-War-Hammers]].
 
 
 # Vanilla War Hammers

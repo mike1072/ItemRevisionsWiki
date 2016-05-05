@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Boots]].
+Compare with [[modded versions|Modded-Boots]].
 
 
 # Vanilla Boots

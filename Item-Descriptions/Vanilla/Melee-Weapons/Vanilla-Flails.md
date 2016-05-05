@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Flails]].
+Compare with [[modded versions|Modded-Flails]].
 
 
 # Vanilla Flails

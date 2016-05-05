@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Cloaks]].
+Compare with [[modded versions|Modded-Cloaks]].
 
 
 # Vanilla Cloaks

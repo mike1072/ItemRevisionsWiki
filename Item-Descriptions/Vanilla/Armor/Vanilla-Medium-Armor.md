@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Medium-Armor]].
+Compare with [[modded versions|Modded-Medium-Armor]].
 
 
 # Vanilla Chain Mail

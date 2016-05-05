@@ -1,4 +1,4 @@
-Compare with [[modded items|Modded-Light-Armor]].
+Compare with [[modded versions|Modded-Light-Armor]].
 
 
 # Vanilla Leather Armor
